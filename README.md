@@ -1,7 +1,7 @@
 👋 Hi, I’m <b>Ardianto Wibowo</b>
 <br>👀 I’m interested in <i>web and mobile development, graphic design, microsoft office, and ui/ux design</i>
 <br>🌱 I’m currently learning ui/ux design using Adobe XD
-<br>💞️ I’m looking to collaborate on <i>front-end web developer, back-end developer using nodejs (rest api), android developer, graphic design, or administration office</i>
+<br>💞️ I’m looking to collaborate on <i>front-end web developer, back-end developer using nodejs (rest api), android developer, graphic design, or office administration</i>
 <br>📫 Contact : ardiantowib@gmail.com
 
 <!---
