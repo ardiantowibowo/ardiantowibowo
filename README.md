@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ardianto Wibowo
-- 👀 I’m interested in web and mobile development, graphic design, microsoft office, and ui/ux design 
-- 🌱 I’m currently learning ui/ux design using Adobe XD
-- 💞️ I’m looking to collaborate on front-end developer, android developer, graphic design, or administration office
-- 📫 Contact : ardiantowib@gmail.com
+👋 Hi, I’m <b>Ardianto Wibowo</b>
+<br>👀 I’m interested in <i>web and mobile development, graphic design, microsoft office, and ui/ux design</i>
+<br>🌱 I’m currently learning ui/ux design using Adobe XD
+<br>💞️ I’m looking to collaborate on <i>front-end web developer, back-end developer using nodejs (rest api), android developer, graphic design, or administration office</i>
+<br>📫 Contact : ardiantowib@gmail.com
 
 <!---
 ardiantowibowo/ardiantowibowo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
