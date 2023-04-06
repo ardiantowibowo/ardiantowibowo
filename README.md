@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UI/UX and frameworks**
 
-- 🤝 I’m looking for help with you **Web Developer**
+- 🤝 I’m looking for help with you as **Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/ardiantowb](https://linktr.ee/ardiantowb)
 
