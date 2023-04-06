@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ardi</h1>
 <h3 align="center">A passionate frontend web developer from Indonesia. I also excited to making android apps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardiantowibowo&label=Profile%20views&color=0e75b6&style=flat" alt="ardiantowibowo" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ardiantowibowo" alt="ardiantowibowo" /></a> </p>
 
 - 🌱 I’m currently learning **UI/UX and frameworks**
