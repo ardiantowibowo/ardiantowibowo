@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with you as **Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/ardiantowb](https://linktr.ee/ardiantowb)
-
 - 📫 How to reach me **ardiantowib@gmail.com**
 
 - 📄 Know about my experiences [https://ardiantow.my.id](https://ardiantow.my.id)
